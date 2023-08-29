@@ -1,5 +1,5 @@
 # Hey I am Wendy  :wave:
-#### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in CyberSecurity.
+#### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security.
 
 
 ## :computer: Skills
@@ -21,6 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYWeee&layout=pie)](https://github.com/YYYWeee/github-readme-stats)
 
 :yellow_heart: My passions
+-Technology and software
 
 
 
