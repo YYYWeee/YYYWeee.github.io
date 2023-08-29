@@ -24,7 +24,7 @@
 
 
 
-## Contact me
-### Get in touch with me
+# Contact me
+## Get in touch with me
 
 :globe_with_meridians:
