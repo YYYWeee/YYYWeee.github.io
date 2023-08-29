@@ -27,4 +27,4 @@
 # Contact me
 ## Get in touch with me
 
-:globe_with_meridians: ([Portfolio](http://wendyckuo.com/))
+:globe_with_meridians: [Portfolio](http://wendyckuo.com/)
