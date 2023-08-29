@@ -16,4 +16,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/YYYWeee/github-readme-stats)
+[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYWeee)](https://github.com/YYYWeee/github-readme-stats)
