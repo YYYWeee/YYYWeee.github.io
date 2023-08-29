@@ -16,4 +16,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYWeee)](https://github.com/YYYWeee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYWeee&layout=pie)](https://github.com/YYYWeee/github-readme-stats)
