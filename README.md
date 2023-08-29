@@ -1,5 +1,5 @@
 # Hey I am Wendy  :wave:
-## I'm a full stack software engineer with a Master degree of Management of Information System and work experience in CyberSecurity.
+### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in CyberSecurity.
 
 
 ## :computer: skills
@@ -24,7 +24,7 @@
 
 
 
-##Contact me
-###Get in touch with me
+## Contact me
+### Get in touch with me
 
 :globe_with_meridians:
